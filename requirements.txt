@@ -1,0 +1,42 @@
+
+-> Pre-Requisites:
+
+1. A Google account to access Google Colab.
+
+2. A copy of the carlos_alves_cdeol003_code.ipynb file.
+
+
+-> Execution Environment:
+
+1. The notebook shall be executed on Google Colab, which provides a cloud-based 
+   Jupyter Notebook environment.
+
+2. Ensure that the runtime type in Google Colab is set to the desired 
+   setting (first Python 3 and then R).
+
+
+-> Dependency Installation:
+
+1. Load the datasets use this path: /content/drive/MyDrive/student/ to store all the data 
+
+2. The datasets are located in the folder data
+
+3. Use the !pip install command within a code cell in the notebook to install any necessary   
+   dependencies.
+
+
+-> Notebook Execution:
+
+1. Upload the carlos_alves_cdeol003_code.ipynb file to Google Colab.
+
+2. Once uploaded, open the notebook in Google Colab.
+
+3. Upload external data files in the correct path
+
+4. Execute the notebook cells in sequence from the beginning to the end of the notebook
+
+5. Copy of the code with all results is available at carlos_alves_cdeol003_code.pdf
+
+
+PS. First cell needs to run in Python to connect and access the data.
+    After this all the code runs in R.
