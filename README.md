@@ -3,7 +3,7 @@
 
 ## Description
 
-This project focuses on analyzing student academic performance using various statistical models. The dataset includes details on aspects such as age, travel time, family relationship quality, alcohol consumption, absences, and previous grade performances, with the aim of understanding their impact on final grades (G3).
+This project focuses on analyzing student academic performance using various statistical models. The dataset includes age, travel time, family relationship quality, alcohol consumption, absences, and previous grade performances to understand their impact on final grades (G3).
 
 ## Files Description
 
@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Dataset originally sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
-- Thanks to Dr. Daniel Stamate for guidance and supervision.
+
