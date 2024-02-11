@@ -1,6 +1,8 @@
 
 # Project Title
 
+Predictive Modeling of Academic Success: Insights from Regression Analysis
+
 ## Description
 
 This project focuses on analyzing student academic performance using various statistical models. The dataset includes age, travel time, family relationship quality, alcohol consumption, absences, and previous grade performances to understand their impact on final grades (G3).
